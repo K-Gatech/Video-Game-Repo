@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Ground
+  - Projectile
+  - Enemy
+  - HealthPercentage
+  - HealthMissing
+  - EnergyPercentage
+  - EnergyMissing
+  - Spaceship
+  - PlanetOverviewPanel
+  - Planet_1
+  - Planet_2
+  - Planet_3
+  - Lava
+  - PlayerBody
+  - SaveNearMaze
+  - MazeArea
+  - KeyDesert
+  - ChestHouse
+  - ChestLava
+  - CinemachineTarget
+  - AIWall
+  - Sentry
+  - GreenNPC
+  - Potion
+  - Treasure
+  - GuardianDesire
+  - boundary
+  - Cam_Ignore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - AIWall
+  - NPC
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Cam_Ignore
+  - NotAimTargets
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
