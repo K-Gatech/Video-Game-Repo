@@ -4,4 +4,4 @@ In the game, you play as an alien searching for a new home. It features shooting
 
 To play the game, you will need to download the files and build it in Unity. If you would like me to send you the game to try out, please let me know.
 
-Link to trailer - 
+Link to trailer - https://youtu.be/42tDDTf81zA
